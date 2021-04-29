@@ -25,6 +25,34 @@
 			<false/>
 			<key>allowCloudPhotoLibrary</key>
 			<false/>
+			<key>allowCloudCalendar</key>
+			<false/>
+			<key>allowCloudDesktopAndDocuments</key>
+			<false/>
+			<key>allowCloudBackup</key>
+			<false/>
+			<key>allowCloudAddressBook</key>
+			<false/>
+			<key>allowCloudAddressBook</key>
+			<false/>
+			<key>allowCloudCalendar</key>
+			<false/>
+			<key>allowSharedDeviceTemporarySession</key>
+			<false/>
+			<key>forceEncryptedBackup</key>
+			<false/>
+			<key>allowRemoteScreenObservation</key>
+			<false/>
+			<key>allowAssistant</key>
+			<false/>
+			<key>allowCloudMail</key>
+			<false/>
+			<key>allowCloudNotes</key>
+			<false/>
+			<key>allowCloudReminders</key>
+			<false/>
+			<key>allowiTunesFileSharing</key>
+			<false/>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
