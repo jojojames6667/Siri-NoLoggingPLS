@@ -19,7 +19,7 @@
 			<integer>1</integer>
 			<key>allowActivityContinuation</key>
 			<false/>
-			<key>allowCloudDocumentSync</key>
+			<key>allowCloudKeyValueSync</key>
 			<false/>
 			<key>allowCloudKeychainSync</key>
 			<false/>
