@@ -27,8 +27,6 @@
 			<false/>
 			<key>allowCloudKeychainSync</key>
 			<false/>
-			<key>allowManagedAppsCloudSync</key>
-			<false/>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
