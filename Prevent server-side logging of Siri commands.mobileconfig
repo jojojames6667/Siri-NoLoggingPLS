@@ -17,7 +17,17 @@
 			<string>F74CDA0E-A7D5-4DF6-BA3F-7F45174E960F</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>allowSiriServerLogging</key>
+			<key>allowActivityContinuation</key>
+			<false/>
+			<key>allowCloudDocumentSync</key>
+			<false/>
+			<key>allowCloudKeychainSync</key>
+			<false/>
+			<key>allowCloudPhotoLibrary</key>
+			<false/>
+			<key>allowCloudKeychainSync</key>
+			<false/>
+			<key>allowManagedAppsCloudSync</key>
 			<false/>
 		</dict>
 	</array>
